@@ -1,0 +1,100 @@
+{
+  "settings": {
+    "title": "Einstellungen",
+    "general": "Allgemein",
+    "appTheme": "App-Design",
+    "language": "Sprache",
+    "storage": "Speicherverwaltung",
+    "storageBreakdown": "Speicheraufschlüsselung",
+    "information": "Informationen & Rechtliches",
+    "faq": "FAQ",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutz-Bestimmungen",
+    "version": "Version",
+    "dangerZone": "Gefahrenzone",
+    "deleteAll": "Alle Dokumente löschen",
+    "dark": "Dunkel",
+    "light": "Hell",
+    "english": "English",
+    "hindi": "हिंदी",
+    "deleteAllPrompt": "⚠️ Alle Dokumente löschen?",
+    "deleteAllMsg": "Sind Sie sicher? Dies löscht ALLE Dokumente, Hervorhebungen und Lesezeichen. Dies kann NICHT rückgängig gemacht werden.",
+    "cancel": "Abbrechen",
+    "yesSure": "Ja, ich bin sicher",
+    "finalWarning": "Letzte Warnung",
+    "wipeMsg": "Alle Daten werden gleich dauerhaft gelöscht.",
+    "wipeEverything": "Alles löschen",
+    "success": "Erfolg",
+    "wipedMsg": "Alle Daten wurden gelöscht.",
+    "error": "Fehler",
+    "deleteFailed": "Fehler beim Löschen der Daten.",
+    "privacyMsg": "Keine Daten verlassen Ihr Gerät."
+  },
+  "common": {
+    "home": "Start",
+    "documents": "Dokumente",
+    "search": "Suche",
+    "favorites": "Favoriten",
+    "settings": "Einstellungen",
+    "addFiles": "Dateien hinzufügen",
+    "dockview": "Dockview",
+    "all": "Alle",
+    "pdf": "PDF",
+    "word": "Word",
+    "excel": "Excel",
+    "ppt": "PPT",
+    "txt": "TXT",
+    "image": "Bild"
+  },
+  "home": {
+    "bannerTitle": "Dokumentenmanager & Reader",
+    "bannerDesc": "Findet, organisiert und verwaltet automatisch jede auf Ihrem Gerät gespeicherte Datei.",
+    "totalDocuments": "Gesamtdokumente",
+    "storage": "Speicher",
+    "browseAll": "Alle durchsuchen",
+    "recent": "Zuletzt",
+    "largest": "Größte",
+    "noRecent": "Keine kürzlichen Dokumente",
+    "pullRefresh": "Nach unten ziehen, um zu aktualisieren und alle Dateien auf Ihrem Gerät zu entdecken."
+  },
+  "documents": {
+    "duplicates": "Duplikate",
+    "reviewDuplicates": "Prüfe {{count}} Duplikate",
+    "filesCount": "{{count}} Dateien",
+    "sortBy": "Sortieren: {{type}}",
+    "noDuplicates": "Keine Duplikate gefunden",
+    "noDocs": "Keine {{category}}-Dokumente",
+    "sortTitle": "Dokumente sortieren nach",
+    "sortDate": "Geändert / Hinzugefügt am",
+    "sortName": "Name (A-Z)",
+    "sortSize": "Dateigröße"
+  },
+  "search": {
+    "placeholder": "Nach Name, Format oder Inhalt suchen...",
+    "quickFilters": "Schnellfilter",
+    "emptyInitial": "Nach Dokumenten suchen",
+    "emptyDesc": "Geben Sie einen Titel, eine Dateiendung oder Text ein, um Ihre Bibliothek zu filtern.",
+    "noMatching": "Keine passenden Dokumente gefunden",
+    "tryDifferent": "Versuchen Sie eine andere Suchanfrage oder einen anderen Filter."
+  },
+  "favorites": {
+    "starredCount": "{{count}} Markiert",
+    "emptyTitle": "Keine Favoriten-Dokumente",
+    "emptyDesc": "Markieren Sie Dokumente als Favoriten, um hier schnell darauf zuzugreifen."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "q1": "Wie füge ich Dokumente hinzu?",
+    "a1": "Tippen Sie auf der Registerkarte Bibliothek auf die Schaltfläche + und wählen Sie ein Dokument aus.",
+    "q2": "Welche Formate werden unterstützt?",
+    "a2": "Wir unterstützen nativ PDF, DOC, DOCX, XLS, XLSX, PPT, PPTX und TXT.",
+    "q3": "Sind meine Daten sicher?",
+    "a3": "Ja. Alle Dokumente werden lokal auf Ihrem Gerät verarbeitet und gespeichert."
+  },
+  "legal": {
+    "termsTitle": "Nutzungsbedingungen",
+    "termsText": "Durch die Nutzung dieser Anwendung erklären Sie sich damit einverstanden, dass Sie allein für die von Ihnen importierten Dokumente verantwortlich sind.",
+    "privacyTitle": "Datenschutz-Bestimmungen",
+    "privacyText": "Ihre Privatsphäre ist unsere Priorität. Diese Anwendung sammelt, überträgt oder speichert keine Ihrer persönlichen Daten."
+  }
+}

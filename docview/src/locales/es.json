@@ -1,0 +1,100 @@
+{
+  "settings": {
+    "title": "Ajustes",
+    "general": "General",
+    "appTheme": "Tema de la aplicación",
+    "language": "Idioma",
+    "storage": "Gestión de almacenamiento",
+    "storageBreakdown": "Detalle de almacenamiento",
+    "information": "Información y legal",
+    "faq": "Preguntas frecuentes",
+    "terms": "Términos de uso",
+    "privacy": "Política de privacidad",
+    "version": "Versión",
+    "dangerZone": "Zona de peligro",
+    "deleteAll": "Eliminar todos los documentos",
+    "dark": "Oscuro",
+    "light": "Claro",
+    "english": "English",
+    "hindi": "हिंदी",
+    "deleteAllPrompt": "⚠️ ¿Eliminar todos los documentos?",
+    "deleteAllMsg": "¿Estás seguro? Esto eliminará TODOS los documentos, destacados y marcadores. Esta acción NO se puede deshacer.",
+    "cancel": "Cancelar",
+    "yesSure": "Sí, estoy seguro",
+    "finalWarning": "Advertencia final",
+    "wipeMsg": "Todos los datos están a punto de borrarse permanentemente.",
+    "wipeEverything": "Borrar todo",
+    "success": "Éxito",
+    "wipedMsg": "Se han borrado todos los datos.",
+    "error": "Error",
+    "deleteFailed": "Error al eliminar los datos.",
+    "privacyMsg": "Ningún dato sale de tu dispositivo."
+  },
+  "common": {
+    "home": "Inicio",
+    "documents": "Documentos",
+    "search": "Buscar",
+    "favorites": "Favoritos",
+    "settings": "Ajustes",
+    "addFiles": "Añadir archivos",
+    "dockview": "Dockview",
+    "all": "Todos",
+    "pdf": "PDF",
+    "word": "Word",
+    "excel": "Excel",
+    "ppt": "PPT",
+    "txt": "TXT",
+    "image": "Imagen"
+  },
+  "home": {
+    "bannerTitle": "Gestor y lector de documentos",
+    "bannerDesc": "Encuentra, organiza y gestiona automáticamente todos los archivos guardados en tu dispositivo.",
+    "totalDocuments": "Documentos totales",
+    "storage": "Almacenamiento",
+    "browseAll": "Ver todos",
+    "recent": "Recientes",
+    "largest": "Más grandes",
+    "noRecent": "No hay documentos recientes",
+    "pullRefresh": "Desliza hacia abajo para actualizar y descubrir todos los archivos en tu dispositivo."
+  },
+  "documents": {
+    "duplicates": "Duplicados",
+    "reviewDuplicates": "Revisando {{count}} duplicados",
+    "filesCount": "{{count}} Archivos",
+    "sortBy": "Ordenar: {{type}}",
+    "noDuplicates": "No se encontraron duplicados",
+    "noDocs": "No hay documentos {{category}}",
+    "sortTitle": "Ordenar documentos por",
+    "sortDate": "Fecha modificada / añadida",
+    "sortName": "Nombre (A-Z)",
+    "sortSize": "Tamaño de archivo"
+  },
+  "search": {
+    "placeholder": "Buscar por nombre, formato o contenido...",
+    "quickFilters": "Filtros rápidos",
+    "emptyInitial": "Buscar cualquier documento",
+    "emptyDesc": "Escribe un título, extensión de archivo o texto para filtrar tu biblioteca.",
+    "noMatching": "No se encontraron documentos coincidentes",
+    "tryDifferent": "Prueba con una búsqueda o filtro diferente."
+  },
+  "favorites": {
+    "starredCount": "{{count}} Destacados",
+    "emptyTitle": "No hay documentos favoritos",
+    "emptyDesc": "Marca documentos como favoritos para acceder a ellos rápidamente aquí."
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "q1": "¿Cómo añado documentos?",
+    "a1": "Toca el botón + en la pestaña Biblioteca y selecciona un documento de tu dispositivo.",
+    "q2": "¿Qué formatos son compatibles?",
+    "a2": "Admitimos archivos PDF, DOC, DOCX, XLS, XLSX, PPT, PPTX y TXT de forma nativa.",
+    "q3": "¿Están seguros mis datos?",
+    "a3": "Sí. Todos los documentos se procesan y almacenan localmente en tu dispositivo. Nada se sube a ningún servidor."
+  },
+  "legal": {
+    "termsTitle": "Términos de uso",
+    "termsText": "Al utilizar esta aplicación, aceptas que eres el único responsable de los documentos que importas.",
+    "privacyTitle": "Política de privacidad",
+    "privacyText": "Tu privacidad es nuestra prioridad. Esta aplicación no recopila, transmite ni almacena ninguno de tus datos personales o documentos en servidores externos."
+  }
+}

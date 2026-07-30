@@ -1,0 +1,1 @@
+Intentionally empty. No backend for MVP. This app is fully local: documents live in app-private storage, metadata in SQLite. Revisit only if cloud sync or cross-device library access becomes a real requirement.

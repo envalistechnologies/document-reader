@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light Mode Default - Pure White & Clean */
+    --color-bg-base: #FFFFFF;
+    --color-bg-paper: #F9FAFB;
+    --color-bg-surface: #F3F4F6;
+    --color-border-subtle: #E5E7EB;
+    --color-text-primary: #111827;
+    --color-text-secondary: #6B7280;
+    --color-accent-primary: #3B82F6;
+    --color-accent-primaryPressed: #2563EB;
+    --color-danger: #EF4444;
+
+    --font-display: Spline Sans, Inter, ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+    --font-rounded: 'SF Pro Rounded', 'Hiragino Maru Gothic ProN', Meiryo, 'MS PGothic', sans-serif;
+    --font-serif: Georgia, 'Times New Roman', serif;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Dark Mode - Neutral Dark / True Black */
+    --color-bg-base: #0A0A0A;
+    --color-bg-paper: #171717;
+    --color-bg-surface: #262626;
+    --color-border-subtle: #404040;
+    --color-text-primary: #F9FAFB;
+    --color-text-secondary: #9CA3AF;
+    --color-accent-primary: #3B82F6;
+    --color-accent-primaryPressed: #2563EB;
+    --color-danger: #EF4444;
+  }
+}
+
+/* Fallback for sepia if ever needed, though prefer-color-scheme only supports dark/light natively */
+.sepia {
+  --color-bg-base: #F4ECD8;
+  --color-bg-paper: #F4ECD8;
+  --color-bg-surface: #EAE1CB;
+  --color-border-subtle: #D7CDB7;
+  --color-text-primary: #3B2F1E;
+  --color-text-secondary: #6E5C46;
+  --color-accent-primary: #3454D1;
+  --color-accent-primaryPressed: #28409E;
+  --color-danger: #D6483F;
+}

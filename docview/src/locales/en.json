@@ -1,0 +1,100 @@
+{
+  "settings": {
+    "title": "Settings",
+    "general": "General",
+    "appTheme": "App Theme",
+    "language": "Language",
+    "storage": "Storage Management",
+    "storageBreakdown": "Storage Breakdown",
+    "information": "Information & Legal",
+    "faq": "FAQ",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "version": "Version",
+    "dangerZone": "Danger Zone",
+    "deleteAll": "Delete All Documents",
+    "dark": "Dark",
+    "light": "Light",
+    "english": "English",
+    "hindi": "हिंदी",
+    "deleteAllPrompt": "⚠️ Delete All Documents?",
+    "deleteAllMsg": "Are you absolutely sure? This will delete ALL documents, highlights, and bookmarks. This action CANNOT be undone.",
+    "cancel": "Cancel",
+    "yesSure": "Yes, I am sure",
+    "finalWarning": "Final Warning",
+    "wipeMsg": "All data is about to be permanently wiped.",
+    "wipeEverything": "Wipe Everything",
+    "success": "Success",
+    "wipedMsg": "All data has been wiped.",
+    "error": "Error",
+    "deleteFailed": "Failed to delete data.",
+    "privacyMsg": "No data leaves your device."
+  },
+  "common": {
+    "home": "Home",
+    "documents": "Documents",
+    "search": "Search",
+    "favorites": "Favorites",
+    "settings": "Settings",
+    "addFiles": "Add Files",
+    "dockview": "Dockview",
+    "all": "All",
+    "pdf": "PDF",
+    "word": "Word",
+    "excel": "Excel",
+    "ppt": "PPT",
+    "txt": "TXT",
+    "image": "Image"
+  },
+  "home": {
+    "bannerTitle": "Document Manager & Reader",
+    "bannerDesc": "Automatically finds, organizes, and manages every file stored on your device.",
+    "totalDocuments": "Total Documents",
+    "storage": "Storage",
+    "browseAll": "Browse All",
+    "recent": "Recent",
+    "largest": "Largest",
+    "noRecent": "No recent documents",
+    "pullRefresh": "Pull down to refresh and discover all files on your device."
+  },
+  "documents": {
+    "duplicates": "Duplicates",
+    "reviewDuplicates": "Reviewing {{count}} Duplicates",
+    "filesCount": "{{count}} Files",
+    "sortBy": "Sort: {{type}}",
+    "noDuplicates": "No duplicates found",
+    "noDocs": "No {{category}} documents",
+    "sortTitle": "Sort Documents By",
+    "sortDate": "Date Modified / Added",
+    "sortName": "Name (A-Z)",
+    "sortSize": "File Size"
+  },
+  "search": {
+    "placeholder": "Search by name, format, or content...",
+    "quickFilters": "Quick Filters",
+    "emptyInitial": "Search for any document",
+    "emptyDesc": "Type a title, file extension, or text to filter your library.",
+    "noMatching": "No matching documents found",
+    "tryDifferent": "Try a different search query or filter."
+  },
+  "favorites": {
+    "starredCount": "{{count}} Starred",
+    "emptyTitle": "No favorite documents",
+    "emptyDesc": "Mark documents as favorite to access them quickly here."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How do I add documents?",
+    "a1": "Tap the + button in the Library tab and select a document from your device.",
+    "q2": "What formats are supported?",
+    "a2": "We support PDF, DOC, DOCX, XLS, XLSX, PPT, PPTX, and TXT files natively.",
+    "q3": "Is my data safe?",
+    "a3": "Yes. All documents are processed and stored locally on your device. Nothing is uploaded to any server."
+  },
+  "legal": {
+    "termsTitle": "Terms of Use",
+    "termsText": "By using this application, you agree that you are solely responsible for the documents you import. We do not provide cloud backup services; therefore, if you delete the app or clear its data, your documents will be lost. This app is provided 'as is' without any warranties.",
+    "privacyTitle": "Privacy Policy",
+    "privacyText": "Your privacy is our priority. This application does not collect, transmit, or store any of your personal data or documents on external servers. All file processing, thumbnail generation, and text extraction occurs locally on your device. We do not use analytics or tracking software."
+  }
+}

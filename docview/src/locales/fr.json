@@ -1,0 +1,100 @@
+{
+  "settings": {
+    "title": "Paramètres",
+    "general": "Général",
+    "appTheme": "Thème de l'application",
+    "language": "Langue",
+    "storage": "Gestion du stockage",
+    "storageBreakdown": "Détail du stockage",
+    "information": "Informations & Légal",
+    "faq": "FAQ",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "version": "Version",
+    "dangerZone": "Zone de danger",
+    "deleteAll": "Supprimer tous les documents",
+    "dark": "Sombre",
+    "light": "Clair",
+    "english": "English",
+    "hindi": "हिंदी",
+    "deleteAllPrompt": "⚠️ Supprimer tous les documents ?",
+    "deleteAllMsg": "Êtes-vous sûr ? Cela supprimera TOUS les documents, surbrillances et signets. Cette action est IRRÉVERSIBLE.",
+    "cancel": "Annuler",
+    "yesSure": "Oui, je suis sûr",
+    "finalWarning": "Avertissement final",
+    "wipeMsg": "Toutes les données sont sur le point d'être effacées définitivement.",
+    "wipeEverything": "Tout effacer",
+    "success": "Succès",
+    "wipedMsg": "Toutes les données ont été effacées.",
+    "error": "Erreur",
+    "deleteFailed": "Échec de la suppression des données.",
+    "privacyMsg": "Aucune donnée ne quitte votre appareil."
+  },
+  "common": {
+    "home": "Accueil",
+    "documents": "Documents",
+    "search": "Rechercher",
+    "favorites": "Favoris",
+    "settings": "Paramètres",
+    "addFiles": "Ajouter des fichiers",
+    "dockview": "Dockview",
+    "all": "Tous",
+    "pdf": "PDF",
+    "word": "Word",
+    "excel": "Excel",
+    "ppt": "PPT",
+    "txt": "TXT",
+    "image": "Image"
+  },
+  "home": {
+    "bannerTitle": "Gestionnaire et lecteur de documents",
+    "bannerDesc": "Trouve, organise et gère automatiquement tous les fichiers stockés sur votre appareil.",
+    "totalDocuments": "Total des documents",
+    "storage": "Stockage",
+    "browseAll": "Tout parcourir",
+    "recent": "Récents",
+    "largest": "Plus grands",
+    "noRecent": "Aucun document récent",
+    "pullRefresh": "Tirez vers le bas pour rafraîchir et découvrir tous les fichiers."
+  },
+  "documents": {
+    "duplicates": "Doublons",
+    "reviewDuplicates": "Examen de {{count}} doublons",
+    "filesCount": "{{count}} Fichiers",
+    "sortBy": "Trier: {{type}}",
+    "noDuplicates": "Aucun doublon trouvé",
+    "noDocs": "Aucun document {{category}}",
+    "sortTitle": "Trier les documents par",
+    "sortDate": "Date modifiée / ajoutée",
+    "sortName": "Nom (A-Z)",
+    "sortSize": "Taille de fichier"
+  },
+  "search": {
+    "placeholder": "Rechercher par nom, format ou contenu...",
+    "quickFilters": "Filtres rapides",
+    "emptyInitial": "Rechercher un document",
+    "emptyDesc": "Saisissez un titre, une extension ou du texte pour filtrer votre bibliothèque.",
+    "noMatching": "Aucun document correspondant trouvé",
+    "tryDifferent": "Essayez une autre requête ou un autre filtre."
+  },
+  "favorites": {
+    "starredCount": "{{count}} Favoris",
+    "emptyTitle": "Aucun document favori",
+    "emptyDesc": "Marquez des documents comme favoris pour y accéder rapidement ici."
+  },
+  "faq": {
+    "title": "Foire aux questions",
+    "q1": "Comment ajouter des documents ?",
+    "a1": "Appuyez sur le bouton + dans l'onglet Bibliothèque et sélectionnez un document sur votre appareil.",
+    "q2": "Quels formats sont pris en charge ?",
+    "a2": "Nous prenons en charge nativement les fichiers PDF, DOC, DOCX, XLS, XLSX, PPT, PPTX et TXT.",
+    "q3": "Mes données sont-elles en sécurité ?",
+    "a3": "Oui. Tous les documents sont traités et stockés localement sur votre appareil. Rien n'est envoyé vers un serveur."
+  },
+  "legal": {
+    "termsTitle": "Conditions d'utilisation",
+    "termsText": "En utilisant cette application, vous acceptez d'être seul responsable des documents que vous importez.",
+    "privacyTitle": "Politique de confidentialité",
+    "privacyText": "Votre confidentialité est notre priorité. Cette application ne collecte, ne transmet et ne stocke aucune de vos données personnelles."
+  }
+}
