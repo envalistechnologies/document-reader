@@ -114,7 +114,7 @@ export default function HomeScreen() {
   return (
     <Screen>
       <AppBar 
-        title={t('common.dockview')} 
+        title={t('common.docview')} 
         trailingSlot={
           <TouchableOpacity onPress={() => router.push('/search')} className="p-2 mr-1">
             <SearchIcon size={22} color={colors.text.primary} />

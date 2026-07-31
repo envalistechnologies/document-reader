@@ -80,7 +80,7 @@ export default function DocumentsScreen() {
   return (
     <Screen>
       <AppBar 
-        title={t('common.dockview')} 
+        title={t('common.docview')} 
         trailingSlot={
           <View className="flex-row items-center gap-3 pr-2">
             {/* Duplicates indicator button */}
