@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/logo.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.docreader.app"
+      "package": "com.docview.app"
     },
     "web": {
       "output": "static",
