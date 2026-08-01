@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/logo.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.princep4423d.documentreader"
+      "package": "com.docview.app"
     },
     "web": {
       "output": "static",
