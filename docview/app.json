@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/logo.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.docview.app"
+      "package": "com.docreader.app"
     },
     "web": {
       "output": "static",
@@ -60,10 +60,7 @@
       "reactCompiler": true
     },
     "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "44711efa-f220-4dae-8274-ce941cda229c"
-      }
+      "router": {}
     }
   }
 }
