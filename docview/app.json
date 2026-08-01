@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/logo.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.docview.app"
+      "package": "com.docview.filemanager.app"
     },
     "web": {
       "output": "static",
